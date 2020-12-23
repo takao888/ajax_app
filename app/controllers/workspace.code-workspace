@@ -1,0 +1,50 @@
+{
+	"folders": [
+		{
+			"path": "../../../../HTML_CSS/output_htmlcss"
+		},
+		{
+			"path": "../../../../HTML_CSS/3-3"
+		},
+		{
+			"path": "../../../../HTML_CSS/3-2"
+		},
+		{
+			"path": "../../../../HTML_CSS/3-4"
+		},
+		{
+			"path": "../../../../HTML_CSS/3-5"
+		},
+		{
+			"path": "../../../../HTML_CSS/3-6"
+		},
+		{
+			"path": "../../../../HTML_CSS/3-7"
+		},
+		{
+			"path": "../../../../HTML_CSS/3-8"
+		},
+		{
+			"path": "../../../../HTML_CSS/3-9"
+		},
+		{
+			"path": "../../../../HTML_CSS/Hair_OLIVE"
+		},
+		{
+			"path": "../../../../HTML_CSS/chat-app"
+		},
+		{
+			"path": "../../../../ruby"
+		},
+		{
+			"path": "../../../../sinatra"
+		},
+		{
+			"path": "../../../../config"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
